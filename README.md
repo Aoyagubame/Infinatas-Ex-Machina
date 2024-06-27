@@ -4,3 +4,4 @@
 ### "Class GitHub Logo.png" is a logo to be used in a website.
 ### "PasswordLogic.pdf" is a flowchart representing the system logic behind determining the outcome of excessive invalid user inputs for a password field.
 ### "Python.png" is a picture of a simple script that prints the sum of two variables. 
+### "AddisonPuffelisFlowerClass.pdf" is a Class diagram for a flower.
