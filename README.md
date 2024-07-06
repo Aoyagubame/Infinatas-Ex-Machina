@@ -5,3 +5,4 @@
 ### "PasswordLogic.pdf" is a flowchart representing the system logic behind determining the outcome of excessive invalid user inputs for a password field.
 ### "Python.png" is a picture of a simple script that prints the sum of two variables. 
 ### "AddisonPuffelisFlowerClass.pdf" is a Class diagram for a flower.
+### "NetworkDesign.png" is a network diagram using a hybrid star and mesh topology for stability in communication.
