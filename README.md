@@ -6,3 +6,4 @@
 ### "Python.png" is a picture of a simple script that prints the sum of two variables. 
 ### "AddisonPuffelisFlowerClass.pdf" is a Class diagram for a flower.
 ### "NetworkDesign.png" is a network diagram using a hybrid star and mesh topology for stability in communication.
+### "Flower.py" has Class and Object code that tells you three types of flowers are growing and blooming, when run.
