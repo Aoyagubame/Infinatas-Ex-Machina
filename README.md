@@ -8,5 +8,5 @@
 ### "NetworkDesign.png" is a network diagram using a hybrid star and mesh topology for stability in communication.
 ### "Flower.py" has Class and Object code that tells you three types of flowers are growing and blooming, when run.
 ### "PythonOOP.png" is a screenshot of "Flower.py" being executed.
-### "SQLQuery.png" is a screenshot of SQL code  ordering products under $100 in ascending order
-### "MyHTML.png" is a screenshot of html code for a website next to the output
+### "SQLQuery.png" is a screenshot of SQL code  ordering products under $100 in ascending order.
+### "MyHTML.png" is a screenshot of html code for a website next to the output.
